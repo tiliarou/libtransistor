@@ -1,0 +1,9 @@
+<map id="include/libtransistor/cpp/ipc/usb_ds.hpp" name="include/libtransistor/cpp/ipc/usb_ds.hpp">
+<area shape="rect" id="node2" href="$types_8hpp_source.html" title="libtransistor/cpp/types.hpp" alt="" coords="166,187,340,213"/>
+<area shape="rect" id="node11" href="$usb_8hpp.html" title="USB definitions (C++ header) " alt="" coords="291,97,425,138"/>
+<area shape="rect" id="node12" href="$usb_8h.html" title="USB Services. " alt="" coords="390,187,537,213"/>
+<area shape="rect" id="node3" href="$types_8h.html" title="Various system types. " alt="" coords="426,517,561,544"/>
+<area shape="rect" id="node13" href="$endpoint_8h.html" title="USB&#45;as&#45;device endpoint. " alt="" coords="475,353,609,394"/>
+<area shape="rect" id="node15" href="$interface_8h.html" title="USB&#45;as&#45;device interface. " alt="" coords="567,262,701,303"/>
+<area shape="rect" id="node14" href="$ipc_8h.html" title="Interprocess Communication data structures and functions. " alt="" coords="532,443,653,469"/>
+</map>
